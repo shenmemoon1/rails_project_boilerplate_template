@@ -1,5 +1,3 @@
-# README
-
 
 # Rails Bootstrap Boilerplate Template
 
@@ -18,11 +16,13 @@ This project template is designed to provide a quick starting point for develope
 
 To get started with this template, simply follow these steps:
 
-1. Clone this repository to your local machine:
 
-   ```bash
-   git clone https://github.com/yourusername/rails-bootstrap-boilerplate.git
-   ```
+Clone this repository to your local machine:
+
+```
+git clone https://github.com/shenmemoon1/rails_project_boilerplate_template.git
+
+```
 
 ```
 cd rails-bootstrap-boilerplate
