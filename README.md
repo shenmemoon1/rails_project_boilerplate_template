@@ -23,17 +23,17 @@ Clone this repository to your local machine:
 git clone https://github.com/shenmemoon1/rails_project_boilerplate_template.git
 
 ```
-
+run in your terminal
 ```
 cd rails-bootstrap-boilerplate
 
 ```
-
+install dependency
 ```
 bundle install
 
 ```
-
+run the server
 ```
 rails server
 
