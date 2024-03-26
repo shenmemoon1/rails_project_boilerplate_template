@@ -1,5 +1,5 @@
 
-# Rails Bootstrap Boilerplate Template
+# Rails Bootstrap Boilerplate
 
 Welcome to the Rails Bootstrap Boilerplate Template!
 
